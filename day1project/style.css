@@ -1,0 +1,61 @@
+body{
+    background-color:lightblue;
+    align-items: center;
+    display:block;
+    margin-left:320px;
+    /* text-align: center; */
+}
+.image label{
+   margin-top: 30px;
+}
+.box{
+    width:100px;
+    height:70px;
+    margin-left: 20px;;
+    border:1px solid black;
+   
+}
+.images{
+    display:inline-flex;
+}
+.box #para{
+    margin-top: 1px;
+    background-color: whitesmoke;
+}
+.radio {
+    margin-left: 5px;
+    display:inline-block;
+}
+
+.header{
+    text-align: center;
+}
+#fname{
+    width:60%;
+    border-radius: 5px;
+}
+#button{
+    border-radius: 5px;
+    background-color: blue;
+    border:none;
+    width:100px;
+    height: 30px;
+    margin-left: 110px;
+   box-shadow: 0,2px,3px rgba(0,0,0,0.6);
+}
+
+div div{
+    margin:10px;
+}
+.radio #maal {
+    margin-left: 70px;
+}
+#fname{
+    margin-left: 20px;
+}
+.email #fname,.grade select{
+    margin-left: 60px;
+}
+.phone #fname{
+    margin-left: 30px;
+}
